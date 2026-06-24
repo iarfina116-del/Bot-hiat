@@ -43,11 +43,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8353107925:AAFUfj7rvnBtCA6jUcnKwH8f8Pkjx55Mu40'
-OWNER_ID = 8855368882
-ADMIN_ID = 8855368882
-YOUR_USERNAME = '@NON_FUCKER_19x'
-UPDATE_CHANNEL = 'https://t.me/HYDRA_PAPA'
+TOKEN = '8882962643:AAGkKTrN8LExyV55REy9LksCa-O37kEnIQw'
+OWNER_ID = 1849126202
+ADMIN_ID = 1849126202
+YOUR_USERNAME = '@noobxvau'
+UPDATE_CHANNEL = 'https://t.me/noobxvau'
 
 # Payment Info
 PAYMENT_NUMBER = '019XXXXXXXX'  # Replace with your bKash/Nagad number
